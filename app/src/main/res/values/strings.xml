@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Carl_002</string>
+    <string name="title">Cottontail Carl\'s Continious Cardio</string>
+    <string name="btnPlay">PLAY</string>
+    <string name="btnStory">STORY</string>
+    <string name="btnOptions">OPTIONS</string>
+    <string name="txtStory1">Carl, despite the best of intentions, has gotten fat.</string>
+    <string name="btnBack">OK</string>
+    <string name="btnSoundON">SOUND IS OFF</string>
+    <string name="btnJump">JUMP</string>
+    <string name="btnJump2">JUMP AGAIN</string>
+    <string name="btnJump3">...</string>
+    <string name="btnJump4">FLY</string>
+    <string name="btnJump5">UP</string>
+    <string name="btnJump6">TINY JUMP</string>
+    <string name="btnDive">...</string>
+    <string name="btnDive2">DIVE</string>
+    <string name="btnDive3">SCOOT</string>
+    <string name="btnDive4">SCRAM</string>
+    <string name="empty" />
+    <string name="btnSoundOff">SOUND IS ON</string>
+    <string name="txtStory2">The. Best. Of. Intentions.</string>
+    <string name="txtStory3">Good thing his genie friend had that yardsale with all the exercise equipment, then. Get to work, Carl!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btnLevelDown">Level --;</string>
+    <string name="btnLevelUp">Level ++;</string>
+</resources>

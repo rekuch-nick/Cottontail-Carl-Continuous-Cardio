@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".StoryActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp">
+
+        <TextView
+            android:id="@+id/txtStory1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/txtStory1" />
+
+        <ImageView
+            android:id="@+id/imageimgStory01"
+            android:layout_width="424dp"
+            android:layout_height="121dp"
+            app:srcCompat="@drawable/story_02" />
+
+        <TextView
+            android:id="@+id/txtStory2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/txtStory2" />
+
+        <ImageView
+            android:id="@+id/imgStory02"
+            android:layout_width="match_parent"
+            android:layout_height="330dp"
+            app:srcCompat="@drawable/sotry_04" />
+
+        <TextView
+            android:id="@+id/txtStory3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/txtStory3" />
+
+        <Button
+            android:id="@+id/btnBackFromStory"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btnBack" />
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>
